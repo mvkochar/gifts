@@ -1,0 +1,122 @@
+.footer {
+    padding-left: 164px;
+    padding-top: 129px;
+    padding-bottom: 59.5px;
+    padding-right: 205px;
+    background: linear-gradient(61.14deg, rgba(151, 150, 240, 0.2) -27.64%, rgba(251, 199, 212, 0.2) 135.22%);
+    
+    border-top-left-radius: 60px;
+    border-top-right-radius: 60px;
+  
+}
+
+.footer-info-desc {
+    width: 302px;
+    margin-top: 15.12px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 130%;
+    letter-spacing: 0.065em;
+    color: #454747;
+}
+
+.footer-info-phone {
+    margin-top: 40px;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+    color: #272525;
+}
+
+.footer-info-email {
+    margin-top: 1px;
+    font-size: 16px;
+    line-height: 19px;
+    text-decoration-line: underline;
+    color: #272525;
+}
+
+.footer-info-social {
+    margin-top: 40px;
+    gap: 21.89px;
+}
+
+.footer-title {
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 36px;
+    color: #272525;
+}
+
+.footer-list {
+    margin-top: 0.49px;
+    list-style-type: none;
+}
+
+.footer-list-item a {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 52px;
+    color: #454747;
+    text-decoration: none;
+}
+
+.footer-contact-desc {
+    margin-top: 2px;
+    width: 280px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 23px;
+    color: #8F90A6;
+}
+
+.footer-contact-fm {
+    width: 277px;
+    margin-top: 22.51px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    border: 2px solid #272525;
+    border-radius: 15px;
+    gap: 38px;
+}
+
+.footer-contact-fm input {
+    width: 70%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background: transparent;
+    border: 0;
+    outline: 0;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 23px;
+    color: #272525;
+}
+
+.footer-contact-fm input::placeholder {
+    color: #272525;
+}
+
+.footer-contact-fm button {
+    display: block;
+    width: 34px;
+    height: 34px;
+    padding-top: 9.93px;
+    padding-bottom: 9.93px;
+    padding-left: 12px;
+    padding-right: 12px;
+    background: #524983;
+    border: 1px solid #524983;
+    border-radius: 100px;
+    cursor: pointer;
+}
+
+.footer-rights {
+    width: fit-content;
+    margin: 46px auto;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 15px;
+    color: #9FA3B2;
+}

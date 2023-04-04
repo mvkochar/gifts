@@ -1,0 +1,27 @@
+.production-main {
+    justify-content: space-around;
+    padding-top: 68px;
+    border-bottom-left-radius: 60px;
+    border-bottom-right-radius: 60px;
+    background: linear-gradient(38.95deg, #9796F0 -10.38%, #FBC7D4 107.56%);
+}
+
+.production-main-title {
+    width: 605px;
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 60px;
+    text-transform: uppercase;
+    color: #272525;
+}
+
+.production-main-subtitle {
+    width: 548px;
+    margin-top: 20px;
+    margin-bottom: 45px;
+    font-weight: 400;
+    font-size: 18px;    
+    line-height: 130%;
+    letter-spacing: 0.065em;
+    color: #454747;
+}

@@ -1,0 +1,207 @@
+.information-main {
+    padding-top: 50px;
+    padding-left: 156px;
+    padding-right: 124px;
+    background: linear-gradient(38.95deg, #9796F0 -10.38%, #FBC7D4 107.56%);
+    border-bottom-left-radius: 60px;
+    border-bottom-right-radius: 60px;
+}
+
+.information-main-title {
+    margin-bottom: 20px;
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 60px;
+    text-transform: uppercase;
+    color: #272525;
+}
+
+.information-main-desc {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 130%;
+    letter-spacing: 0.065em;
+    color: #272525;
+}
+
+.information-main-actions {
+    margin-top: 76px;
+    gap: 40px
+}
+
+.information-main-actions a {
+    display: block;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 19px;
+    text-decoration: none;
+    color: #3C336C;
+}
+
+.information-about {
+    margin-top: 58px;
+    padding-left: 156px;
+    padding-right: 149px;
+}
+
+.information-about-title {
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 130%;
+    color: #272525;
+}
+
+.information-about-desc { 
+    margin-top: 20px; 
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 130%;
+    color: #454747;
+}
+
+.information-about:nth-child(1) .information-about-desc {
+    width: 80%;
+}
+
+.information-faq {
+    margin-top: 89px;
+    padding-left: 156px;
+    padding-right: 161.99px;
+}
+
+.information-faq-title {
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 105.5%;
+    color: #272525;
+}
+
+.information-faq-box {
+    margin-top: 60px;
+}
+
+.faq-about-item {
+    width: 853px;
+    margin-bottom: 18px;
+    padding-bottom: 20px;
+    border-bottom: 8px solid #F1F0F8;
+}
+
+.faq-about-item:last-child {
+    margin-bottom: 0;
+}
+
+.faq-about-title {
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 130%;
+    color: #272525;
+}
+
+.about-title__active {
+    color: #3C336C;
+}
+
+.faq-about-btn {
+    display: block;
+    background-color: transparent;
+    border: 0;
+    cursor: pointer;
+}
+
+.faq-about-content {
+    margin-top: 20px;
+}
+
+.about-content-title, .about-content-list {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 130%;
+    color: #454747;
+}
+
+.about-content-list {
+    margin-left: 25px;
+ }
+
+ .information-connections {
+    margin-top: 107px;
+    padding-left: 161px;
+    padding-right: 453px;
+    padding-bottom: 76px;
+}
+
+.information-contacts-title {
+    width: 288px;
+    background: url("/public/images/call.png") no-repeat right;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 103%;
+    color: #272525;
+}
+
+.information-contacts-email {
+    margin-top: 51px;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 103%;
+    color: #272525;
+}
+
+.information-contacts-phone {
+    margin-top: 20px;
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 37px;
+    color: #272525;
+}
+
+.information-contacts-social {
+    margin-top: 10px;
+    gap: 17.52px;
+}
+
+.information-message-title {
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 105.5%;
+    color: #272525;
+}
+
+.information-message-box {
+    margin-top: 51px;
+    gap: 89px;
+}
+
+.information-message-desc {
+    width: 261px;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: #222227;
+}
+
+.information-message-desc span {
+    color: #1FAB8A;
+}
+
+.information-message-fm div {
+    margin-bottom: 34px;
+}
+
+.information-message-fm input {
+    width: 289.06px;
+    padding-bottom: 4px;
+    background: transparent;
+    border: 0;
+    border-bottom: 1px solid #272525;
+    outline: 0;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #454747;
+}
+
+.information-message-fm input::placeholder {
+    color: #454747;
+}

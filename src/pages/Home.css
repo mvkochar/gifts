@@ -1,0 +1,220 @@
+.gifts-main {
+    padding-left: 162px;
+    gap: 70px;
+    background: linear-gradient(42.14deg, #9796F0 -17.31%, #FBC7D4 106.72%);
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+}
+
+.gifts-main-title {
+    width: 432px;
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 60px;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: #272525;
+}
+
+.gifts-main-desc {
+    width: 620px;
+    margin-top: 10px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 130%;
+    letter-spacing: 0.065em;
+    color: #272525;
+}
+
+.gifts-main-options {
+    margin-top: 58px;
+    margin-left: -58px;
+    gap: 20px;
+}
+
+.main-options-item::before {
+    content: "";
+    display: block;
+    width: 170px;
+    height: 94px;
+    margin-left: 7px;
+    margin-bottom: 9px;
+    background: url("/public/images/preference.png") no-repeat;
+}
+
+.main-options-item {
+    width: 229px;
+    font-weight: 600;
+    font-size: 21.8449px;
+    line-height: 26px;
+    text-align: center;
+    color: #272525;
+}
+
+.gifts-top {
+    padding-left: 162px;
+    padding-right: 161px;
+    padding-top: 70px;
+    padding-bottom: 83px;
+    background: #EEF1F6;
+    border: 1px solid #EEF1F6;
+    border-radius: 100px;
+}
+
+.gifts-top-title {
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 58px;
+    color: #272525;
+    background: url("/public/images/star.png") no-repeat right;
+}
+
+.gifts-top-subtitle {
+    margin-top: 2px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 130%;
+    letter-spacing: 0.065em;
+    text-transform: lowercase;
+    color: #454747;
+}
+
+.gifts-top-link {
+    gap: 20px;
+}
+
+.gifts-top-box {
+    margin-top: 30px;
+    gap: 17px;
+}
+
+.gifts-top-undertitle {
+    width: fit-content;
+    margin-top: 22px;
+    margin-left: 440px;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 105.5%;
+    color: #272525;
+}
+
+.gifts-creative  {
+    padding-left: 178px;
+    padding-right: 141px;
+    background: #F5F5F5;
+    border: 1px solid #F5F5F5;
+    border-radius: 100px;
+}
+
+.gifts-creative-title {
+    margin-top: 10px;
+    width: 1062px;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 58px;
+    color: #272525;
+}
+
+.gifts-creative-subtitle {
+    margin-top: 23px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    letter-spacing: 0.065em;
+    color: #454747;
+}
+
+.gifts-creative-actions {
+    margin-top: 44px;
+    gap: 29px
+}
+
+.gifts-creative:nth-child(2) {
+    margin-top: 30px;
+    background-color: transparent;
+    border-color: transparent;
+}
+
+.gifts-creative:nth-child(2) .gifts-creative-title {
+    width: 826px;
+}
+
+.gifts-creative:nth-child(2) .gifts-creative-subtitle {
+    width: 576px;
+}
+
+.gifts-creative-examples {
+    margin-top: 40px;
+    gap: 50px;
+}
+
+.gifts-contacts {
+    padding-left: 178px;
+    padding-right: 141px;
+    padding-top: 42px;
+    padding-bottom: 102px;
+    background: linear-gradient(38.95deg, #9796F0 -10.38%, #FFE0E8 107.56%);
+    box-shadow: 0px 20px 50px rgba(0, 0, 0, 0.1);
+    border-radius: 60px;
+}
+
+.gifts-contacts-caption .gifts-creative-title {
+    width: 556px;
+}
+
+.gifts-contacts-caption .gifts-creative-subtitle {
+    width: 556px;
+}
+
+.gifts-contacts-images {
+    gap: 60px;
+} 
+
+.gifts-contacts-title {
+    width: 518px;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: #222227;
+}
+
+.gifts-contacts-fm {
+    margin-top: 27px;
+    gap: 34px;
+}
+
+.gifts-contacts-fm input {
+    width: 336px;
+    padding-bottom: 4px;
+    background: transparent;
+    border: 0;
+    border-bottom: 1px solid #272525;
+    outline: 0;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #454747;
+}
+
+.gifts-contacts-fm input::placeholder {
+    color: #454747;
+}
+
+.gifts-partners {
+    margin-top: 40px;
+    padding-left: 178px;
+    padding-right: 141px;
+    padding-top: 42px;
+    padding-bottom: 102px;
+}
+
+.gifts-partners-title {
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 58px;
+    color: #222227;
+}
+
+.gifts-partners-box {
+    margin-top: 78px;
+}

@@ -1,0 +1,124 @@
+.sets-main {
+    padding-left: 156px;
+    padding-right: 39px;
+    background: linear-gradient(38.95deg, #9796F0 -10.38%, #FBC7D4 107.56%);
+    border-bottom-left-radius: 60px;
+    border-bottom-right-radius: 60px;
+}
+
+.sets-main-title {
+    width: 335px;
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 60px;
+    text-transform: uppercase;
+    color: #272525;
+}
+
+.sets-main-subtitle {
+    width: 548px;
+    margin-top: 20px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 130%;
+    letter-spacing: 0.065em;
+    color: #454747;
+}
+
+.sets-main-actions {
+    margin-top: 42px;
+    gap: 45px;
+}
+
+.sets-catalog {
+    margin-top: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 160px;
+    padding-right: 160px;
+    background: #E5E5E5;
+}
+
+.sets-catalog-title {
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 58px;
+    color: #272525;
+}
+
+.sets-catalog-box {
+    margin-top: 21.32px;
+}
+
+.sets-catalog-action {
+    margin-top: 33px;
+    gap: 24px;
+}
+
+.sets-catalog-btn {
+    display: block;
+    padding-top: 6px;
+    background-color: transparent;
+    border: 0;
+    cursor: pointer; 
+}
+
+.sets-contacts  {
+    padding-left: 157px;
+    padding-right: 65px;
+}
+
+.sets-contacts-title {
+    margin-top: 9.69px;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 58px;
+    color: #272525;
+}
+
+.sets-contacts-subtitle {
+    width: 500px;
+    margin-top: 23px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    letter-spacing: 0.065em;
+    color: #454747;
+}
+
+.sets-contacts-message {
+    margin-top: 36px;
+    gap: 88px;
+}
+
+.sets-contacts-caption {
+    width: 313px;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: #222227;
+}
+
+.sets-contacts-caption span {
+    color: #1FAB8A;
+}
+
+.sets-contacts-fm div {
+    margin-bottom: 34px;
+}
+
+.sets-contacts-fm input {
+    width: 336px;
+    padding-bottom: 4px;
+    background-color: transparent;
+    border: 0;
+    border-bottom: 1px solid #272525;
+    outline: 0;
+    font-size: 16px;
+    line-height: 19px;
+    color: #454747;
+}
+
+.sets-contacts-fm input::placeholder {
+     color: #454747;
+}
